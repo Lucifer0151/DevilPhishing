@@ -57,22 +57,16 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/alexbieber/SocioPhish.git
+$ https://github.com/Lucifer0151/DevilPhishing
 ```
 
 - Change to cloned directory and run `SocioPhish.sh` -
 ```
-$ cd SocioPhish
-$ bash sociophisher.sh
+$ cd DevilPhishing
+$ bash DevilPhishing.sh
 ```
 
 - On first launch, It'll install the dependencies and that's it. `SocioPhish` is installed.
-
-### Run on Docker
-```
-$ docker pull alexbieber/SocioPhish
-$ docker run --rm -it alexbieber/SocioPhish
-```
 
 ### Dependencies
 
@@ -99,18 +93,8 @@ $ docker run --rm -it alexbieber/SocioPhish
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/alexbieber" target="_blank"><img src="https://img.shields.io/badge/Github-Alex--Bieber-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/alexbieber1234" target="_blank"><img src="https://img.shields.io/badge/IG-%40alexbieber1234-red?style=for-the-badge&logo=instagram"></a>
+  <a href="https://github.com/Lucifer0151" target="_blank"><img src="https://img.shields.io/badge/Github-Alex--Bieber-green?style=for-the-badge&logo=github"></a>
 </p>
-
-
-## DONATE YOUR MONEY FOR HELPLESS PEOPLE AROUND THE WORLD! LETS HELP THEM TOGETHER- LOVE YOU 3000❤❤❤❤
-<p>
-  <a href="https://www.paypal.me/alexbieber1234">
-      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
-  </a>
-</p>
-# Donate your money and it will inspire soo many people to live their life.
 
 
  ## THANKS!  
