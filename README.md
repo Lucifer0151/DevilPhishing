@@ -91,7 +91,7 @@ $ bash DevilPhishing.sh
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/Lucifer0151" target="_blank"><img src="https://img.shields.io/badge/Github-Alex--Bieber-green?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Lucifer0151" target="_blank"><img src="https://img.shields.io/badge/Github-AMMAR--Khan-green?style=for-the-badge&logo=github"></a>
 </p>
 
 
